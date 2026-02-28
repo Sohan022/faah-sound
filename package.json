@@ -3,16 +3,16 @@
   "displayName": "Faaah Terminal Error Sound",
   "description": "Plays a configurable sound when integrated terminal commands fail or when terminal output matches error patterns.",
   "version": "0.1.0",
-  "publisher": "CHANGE_ME",
+  "publisher": "Sohan022",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/faaah-sound.git"
+    "url": "https://github.com/Sohan022/faah-sound.git"
   },
   "bugs": {
-    "url": "https://github.com/your-org/faaah-sound/issues"
+    "url": "https://github.com/Sohan022/faah-sound/issues"
   },
-  "homepage": "https://github.com/your-org/faaah-sound#readme",
+  "homepage": "https://github.com/Sohan022/faah-sound#readme",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -39,6 +39,7 @@
     "onCommand:faaahSound.toggle",
     "onCommand:faaahSound.playTestSound"
   ],
+  "icon": "media/logo.png",
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
