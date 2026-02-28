@@ -1,6 +1,6 @@
 {
   "name": "faaah-sound",
-  "displayName": "Faaah Terminal Error Sound",
+  "displayName": "Faaah Terminal Error Alert",
   "description": "Plays a configurable sound when integrated terminal commands fail or when terminal output matches error patterns.",
   "version": "0.1.0",
   "publisher": "Sohan022",

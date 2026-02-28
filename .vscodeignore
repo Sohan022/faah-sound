@@ -1,6 +1,0 @@
-**/.vscode/**
-**/.github/**
-**/src/**
-**/tsconfig.json
-**/.eslintrc.json
-**/*.map
